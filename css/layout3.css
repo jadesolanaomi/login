@@ -1,0 +1,58 @@
+/* body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.dark_blue{
+background-color: blue;
+height: 100%;
+width: 100%;
+display: none;
+align-items: center;
+justify-content: space-around;
+}
+
+.logo{
+    color: black;
+    float: left;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.link {
+    padding-top: 10px;
+    margin-left: 500px;
+    float: left;
+
+}
+.sign{
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+.awesome{
+    color: white;
+    width: 500px;
+    float: left;
+}
+.content{
+    padding-top: 100px;
+    width: 100%;
+    clear: both;
+}
+.image{
+    width: 500px;
+    background-color: red;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+} */

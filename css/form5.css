@@ -1,0 +1,37 @@
+body{
+   background-color: violet;
+}
+
+
+.nid{
+    background-color: cyan;
+    width: 300px;
+    height: 400px;
+    float: left;
+    color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+    text-align: center;
+}
+.ncs{
+    background-color: white;
+    color: black;
+    float: left;
+    width: 300px;
+    height: 400px;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.ned{
+    color: black;
+    width: 300px;
+    
+}
+input[type=submit]{
+    background-color: aqua;
+    color: white;
+    border: none;
+    width: 70px;
+
+}

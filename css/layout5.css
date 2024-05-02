@@ -1,0 +1,59 @@
+body{
+   margin-left: 0%;
+    background-color: blanchedalmond;
+    padding: 0%;
+
+}
+.main{
+    background-color: yellow;
+    color: blue;
+    width: 100%;
+} 
+.link{
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.link2{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+.content{
+    color: rgb(57, 145, 27);
+    text-decoration: aliceblue;
+    margin: 20px;
+}
+.tabular{
+    color: aliceblue;
+    text-decoration: yellow;
+    padding-top: ;
+    margin-top: 10px;
+}
+.vax{
+    
+    background-color: chartreuse;
+    width: 100%;
+    height: 60px;
+    float: center;
+}
+.vex{
+    background-color: blueviolet;
+    float: left;
+    width: 300px;
+    height: 400px;
+}
+.vix{
+    background-color: crimson;
+    float: left ;
+    width: 300px;
+    height: 400px;
+    
+}
+.foot{
+    background-color: darkmagenta;
+    width: 100%;
+    height: 100px;
+    clear: both;
+}

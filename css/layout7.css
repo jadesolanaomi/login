@@ -1,0 +1,46 @@
+body{
+    color: chocolate;
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    background-color: steelblue;
+    color: black;
+    padding: 0%;
+    width: 100%;
+    font-weight: 900;
+}
+.link{
+    justify-content: space-around;
+    display: flex;
+    align-items: normal;
+    
+}
+.content{
+color: hotpink;
+width: min-content;
+font-size: small;
+font-style: normal;
+size: 20px;
+margin-top: 10px;
+}
+.imagea{
+    border: 100px;
+    border-image: fill;
+     width: 10px;
+     height: 10px;
+     
+}
+.continue{
+    background-color: violet;
+    color: yellow;
+    padding: 0%;
+    margin-top: auto;
+}
+.heys{
+    color: black;
+    font-size: medium;
+    clear: both;
+    width: 100%;
+    
+}

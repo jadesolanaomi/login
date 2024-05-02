@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+
+}
+form{
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    margin:0 auto ;
+    margin-top: 100px;
+}
+input{
+    width: 340px;
+    padding: 5px;
+    margin-top: 20px;
+}
+input[type=submit]{
+    background-color: aqua;
+    color: white;
+    border: none;
+    width: 370;
+}
+h1{
+    font-size: 32px;
+    
+}

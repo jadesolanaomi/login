@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    color: azure;
+    font-size: 30px;
+}
+h1{
+    width: 500px;
+    color: brown;
+    border: 5px solid white;
+
+}
